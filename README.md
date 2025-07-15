@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./009a4379885a8a503f06d6081d833842e2ea2be8_hq.gif"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20Everyone!🕹️&animation=fadeIn"/>
+  <img src="./image/009a4379885a8a503f06d6081d833842e2ea2be8_hq.gif" width="500" height="150"/>
 </p>
 
 <!--
@@ -36,7 +32,7 @@ Here are some ideas to get you started:
       </h4>
     </td>
     <td>
-      <img src="https://media.tenor.com/RYGLfSXNIRIAAAAj/frieren.gif" width="150"/>
+      <img src="https://media.tenor.com/RYGLfSXNIRIAAAAj/frieren.gif" width="5000"/>
     </td>
   </tr>
 </table>
