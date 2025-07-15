@@ -21,21 +21,17 @@ Here are some ideas to get you started:
 ###
 <h1 align="center">Hi 👋, I'm Reach! You can call me Kaizen.. if you want (づ ◕‿◕ )づ</h1>
 
+##
+<h4 align="left">
+  I am currently a sophomore of Computer Science. I'm focusing on doing full stack development.
+  I study at Cambodia Academy of Digital Technology. I am currently in 3rd year of Computer Science post Bachelor degree.
+  If you want to contact please follow my social media below! Thanks!
+</h4>
 
-<table style="border: 0 !important; border-collapse: collapse;">
-  <tr>
-    <td style="border: 0 !important;" valign="top">
-      <h4 align="left">
-        I am currently a sophomore of Computer Science. I'm focusing on doing full stack development.
-        I study at Cambodia Academy of Digital Technology. I am currently in 3rd year of Computer Science post Bachelor degree.
-        If you want to contact please follow my social media below! Thanks!
-      </h4>
-    </td>
-    <td style="border: 0 !important;" valign="top">
-      <img src="https://media.tenor.com/RYGLfSXNIRIAAAAj/frieren.gif" width="100"/>
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <img src="https://media.tenor.com/RYGLfSXNIRIAAAAj/frieren.gif" width="150"/>
+</p>
+
 
 
 - 🔭 I’m currently working on [automata-project](https://github.com/ShurikenBy6YoungTechStudents/automata-project.git)
