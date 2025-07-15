@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./image/009a4379885a8a503f06d6081d833842e2ea2be8_hq.gif" width="500" height="150"/>
+  <img src="./image/009a4379885a8a503f06d6081d833842e2ea2be8_hq.gif" width="1000" height="150"/>
 </p>
 
 <!--
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ###
 <h1 align="center">Hi 👋, I'm Reach! You can call me Kaizen.. if you want (づ ◕‿◕ )づ</h1>
 
-##
+
 <table border="0">
   <tr>
     <td valign="top">
