@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Reach! You can call me Kaizen.. if you want </br> (づ ◕‿◕ )づ</h1>
 
 ##
-<h4 align="left">
+<h3 align="left">
   I am currently a sophomore of Computer Science. I'm focusing on doing full stack development.
   I study at Cambodia Academy of Digital Technology. I am currently in 3rd year of Computer Science post Bachelor degree.
   If you want to contact please follow my social media below! Thanks!
-</h4>
+</h3>
 
 <p align="right">
   <img src="https://media.tenor.com/RYGLfSXNIRIAAAAj/frieren.gif" width="150"/>
