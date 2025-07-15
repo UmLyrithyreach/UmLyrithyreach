@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./image/009a4379885a8a503f06d6081d833842e2ea2be8_hq.gif" width="1000" height="200"/>
+  <img src="./image/Saber_Alter_Excalibur_Morgan_4K_60fps.gif" width="1000" height="300"/>
 </p>
 
 <!--
