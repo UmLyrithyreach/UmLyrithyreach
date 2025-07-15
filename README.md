@@ -32,7 +32,7 @@ Here are some ideas to get you started:
       </h4>
     </td>
     <td>
-      <img src="https://media.tenor.com/RYGLfSXNIRIAAAAj/frieren.gif" width="5000"/>
+      <img src="https://media.tenor.com/RYGLfSXNIRIAAAAj/frieren.gif" width="200"/>
     </td>
   </tr>
 </table>
