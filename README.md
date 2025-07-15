@@ -44,6 +44,16 @@ Here are some ideas to get you started:
 
 </br>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmLyrithyreach/UmLyrithyreach/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmLyrithyreach/UmLyrithyreach/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/UmLyrithyreach/UmLyrithyreach/output/pacman-contribution-graph.svg">
+</picture>
+
+</br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaizen_109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaizen_109" height="30" width="40" /></a>
