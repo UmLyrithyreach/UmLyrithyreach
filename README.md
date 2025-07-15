@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+
 - 🔭 I’m currently working on [automata-project](https://github.com/ShurikenBy6YoungTechStudents/automata-project.git)
 
 - 🌱 I’m currently learning **Software Development**
