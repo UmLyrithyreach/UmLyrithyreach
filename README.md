@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ###
-<h1 align="center">Hi 👋, I'm Reach! You can call me Kaizen.. if you want (づ ◕‿◕ )づ</h1>
+<h1 align="center">Hi 👋, I'm Reach! You can call me Kaizen.. if you want </br> (づ ◕‿◕ )づ</h1>
 
 ##
 <h4 align="left">
