@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ##
 <h3 align="left">
-  I am currently a sophomore of Computer Science. I'm focusing on doing full stack development.
+  I am currently a Junior of Computer Science. I'm focusing on doing full stack development.
   I study at Cambodia Academy of Digital Technology. I am currently in 3rd year of Computer Science post Bachelor degree.
   If you want to contact please follow my social media below! Thanks!
 </h3>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [automata-project](https://github.com/ShurikenBy6YoungTechStudents/automata-project.git)
+- 🔭 I’m currently working on [samki-digital-market-next-app](https://github.com/YongVuthivathnakk/samki-digital-market-next-app.git)
 
 - 🌱 I’m currently learning **Software Development**
 
